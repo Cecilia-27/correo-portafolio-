@@ -6,6 +6,14 @@ Correo de presentación HTML con diseño responsivo en estructura de tablas.
 
 **[Ver correo publicado](https://cecilia-27.github.io/correo-portafolio-/correo-ceci.html)**
 
+## Portafolio
+
+**[El corazón de Ceci-portafolio](https://cecilia-27.github.io/El-corazon-de-Ceci/)**
+
+## Repositorio del portafolio
+
+https://github.com/Cecilia-27/El-corazon-de-Ceci
+
 ## Estructura
 
 ```
@@ -21,7 +29,7 @@ correo-portafolio/
 │   ├── rosa-roja.svg
 │   ├── carta-azul.svg
 │   ├── estrella-roja.svg
-│   └── _1Recurso 28estrella blanca.svg
+│   └── estrella-blanca.svg
 └── redes-sociales/           # Iconos de redes
     ├── behance.svg
     ├── instagram.svg

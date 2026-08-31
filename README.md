@@ -8,7 +8,7 @@ Correo de presentación HTML con diseño responsivo en estructura de tablas.
 
 ## Portafolio
 
-**[El corazón de Ceci-portafolio](https://cecilia-27.github.io/Ltei-proyecto_gr1/)**
+**[El corazón de Ceci-portafolio](https://cecilia-27.github.io/El-corazon-de-Ceci/)**
 
 ## Repositorio del portafolio
 

@@ -2,9 +2,9 @@
 <svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 286.21 286.21">
   <defs>
     <style>
-      .cls-1 {
-        fill: #b82925;
-      }
+      :root { color-scheme: light only; }
+      svg { color-scheme: light only; }
+      .cls-1 { fill: #b82925; }
     </style>
   </defs>
   <g id="Capa_1-2" data-name="Capa 1">

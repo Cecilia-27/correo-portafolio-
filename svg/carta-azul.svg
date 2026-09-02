@@ -2,6 +2,8 @@
 <svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 278.57 207.86">
   <defs>
     <style>
+      :root { color-scheme: light only; }
+      svg { color-scheme: light only; }
       .cls-1 {
         fill: #818281;
       }
